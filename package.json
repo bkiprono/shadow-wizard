@@ -1,6 +1,6 @@
 {
   "name": "shadow-wizard-dev-test",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "This is a sample shadow wizard",
   "main": "index.js",
   "scripts": {
