@@ -1,6 +1,5 @@
 ## What's this?
 This is a sample npm package for shadow wizard
-:octacat
 
 ## Getting started
 How to install: 
