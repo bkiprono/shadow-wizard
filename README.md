@@ -6,8 +6,9 @@ This is a sample npm package for shadow wizard
 How to install: 
 To install, use the command below:
 
-`npm i shadow-wizard-dev-test`
-
+```javascript
+npm i shadow-wizard-dev-test
+```
 
 ## Publishing Releases
 
@@ -31,7 +32,7 @@ If the tag isn’t meant for production use, add a pre-release version after the
 ## Wrapping Up
 
 That is all you need to get started with this project.
-Be sure to follow me here on [JuniaKE](https://facebook.com/juniakeofficial) or on the Twitter Page [@juniakeofficial](https://twitter.com/juniakeofficial).
+Be sure to follow me here on [JuniaKE](https://facebook.com/itsbackenddevke) or on the Twitter Page [@itsbackenddevke](https://twitter.com/itsbackenddevke).
 Reach out to me on [Personal Email](mailto:briankoech650@gmail.com) or [Work Email](mailto:se.bkiprono@gmail.com)
 
 Happy Coding Champ :octocat:
