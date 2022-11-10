@@ -14,6 +14,11 @@ function shadowwizard(options) {
       image.style.padding = '1em';
     }
   });
+  let count = 0;
+  setInterval(() => {
+    count += 1;
+    console.log("The value is: ", count);
+  }, 1000);
 }
 
 module.exports.shadowwizard = shadowwizard;
